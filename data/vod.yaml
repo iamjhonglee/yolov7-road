@@ -1,0 +1,9 @@
+train: ./dataset/vod/images/train
+val: ./dataset/vod/images/valid
+test: ./dataset/vod/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['car', 'plate']
