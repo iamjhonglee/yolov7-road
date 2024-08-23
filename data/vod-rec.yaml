@@ -1,0 +1,9 @@
+train: ./dataset/vod-rec/images/train
+val: ./dataset/vod-rec/images/valid
+test: ./dataset/vod-rec/images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['plate']
